@@ -1,0 +1,7 @@
+## Interface: 20501
+## Title: Name2Classic
+## Version: 1.0.0
+## Notes: Adds your name before your chat messages.
+## Author: TylerGrayDev
+
+Name2Classic.lua
