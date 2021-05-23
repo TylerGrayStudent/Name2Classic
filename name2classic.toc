@@ -3,5 +3,11 @@
 ## Version: 1.0.0
 ## Notes: Adds your name before your chat messages.
 ## Author: TylerGrayDev
+## SavedVariables: Name2ClassicDB
+## OptionalDeps: Ace3
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
 
 Name2Classic.lua
